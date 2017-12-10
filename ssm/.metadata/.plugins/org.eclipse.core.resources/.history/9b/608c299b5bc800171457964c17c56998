@@ -1,0 +1,9 @@
+package com.lm.knight.service;
+
+import com.lm.knight.domain.Book;
+
+public interface BooksService {
+
+	Book selectByPrimaryKey(long bookId);
+
+}

@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\project\book\SpringiA4_SourceCode\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1243057733.index
+1768083885.index
+2851666293.index
+864004934.index
+2965556942.index
+1667847363.index

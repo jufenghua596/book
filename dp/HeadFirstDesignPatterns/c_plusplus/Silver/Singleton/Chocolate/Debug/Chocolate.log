@@ -1,0 +1,4 @@
+﻿  chocolate.cpp
+chocolate.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  Chocolate.vcxproj -> D:\project\book\dp\HeadFirstDesignPatterns\c_plusplus\Silver\Singleton\Chocolate\Debug\Chocolate.exe
+  Chocolate.vcxproj -> Debug\Chocolate.pdb (Full PDB)

@@ -1,0 +1,7 @@
+grant principal com.java7book.chapter13.auth.UserPrincipal "Alex" {
+    permission java.util.PropertyPermission "user.*", "read";  
+};
+
+grant {
+    permission javax.security.auth.AuthPermission "*";
+};

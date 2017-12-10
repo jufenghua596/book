@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.*?>
+<?import javafx.collections.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox id="main" spacing="20"  prefHeight="300" prefWidth="400" xmlns:fx="http://javafx.com/fxml" fx:controller="javafx.fxml.Form">
+    <children>
+        <HBox spacing="10">
+            <children>
+                <Label text="Name:" />
+                <TextField fx:id="name" promptText="Enter your name" />
+            </children>
+        </HBox>
+        <HBox spacing="10">
+            <children>
+                <Label text="Gender:" />
+                <ListView fx:id="gender">
+                    <items>
+                        <FXCollections fx:factory="observableArrayList">
+                            <String fx:value="Male"/>
+                            <String fx:value="Female"/>
+                        </FXCollections>
+                    </items>
+                </ListView>
+            </children>
+        </HBox>
+        <HBox>
+            <children>
+                <Button id="button" text="Say" onAction="#say" fx:id="button" />
+                <Label id="message" fx:id="message" />
+            </children>    
+        </HBox>
+    </children>
+</VBox>

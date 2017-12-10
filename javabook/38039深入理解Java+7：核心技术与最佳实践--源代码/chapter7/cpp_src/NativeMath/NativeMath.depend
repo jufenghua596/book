@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1315559169 source:c:\documents and settings\administrator\my documents\codeblocks\nativemath\main.c
+	"com_java7book_chapter7_jni_NativeMath.h"
+	<math.h>
+
+1315555126 c:\documents and settings\administrator\my documents\codeblocks\nativemath\com_java7book_chapter7_jni_nativemath.h
+	<jni.h>
+
+1314177042 c:\program files\java\jdk1.7.0\include\jni.h
+	<stdio.h>
+	<stdarg.h>
+	"jni_md.h"
+
+1314177042 c:\program files\java\jdk1.7.0\include\win32\jni_md.h
+
+1315558306 source:c:\documents and settings\administrator\my documents\codeblocks\nativemath\main.cpp
+	"com_java7book_chapter7_jni_NativeMath.h"
+	<math.h>
+

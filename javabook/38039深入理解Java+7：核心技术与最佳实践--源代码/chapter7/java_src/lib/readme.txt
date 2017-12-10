@@ -1,0 +1,1 @@
+需要下载commons-io-1.4.jar、jna.jar和jnaerator-0.9.8-shaded.jar。

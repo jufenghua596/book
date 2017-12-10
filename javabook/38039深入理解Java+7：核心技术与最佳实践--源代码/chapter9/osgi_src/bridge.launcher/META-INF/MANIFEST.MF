@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Launcher
+Bundle-SymbolicName: bridge.launcher;singleton:=true
+Bundle-Version: 1.0.0
+Bundle-ActivationPolicy: lazy
+Import-Package: javax.servlet;version="2.5.0",
+ javax.servlet.http;version="2.5.0"
+Require-Bundle: org.eclipse.equinox.servletbridge;bundle-version="1.0.0"
+Export-Package: com.java7book.calculator.servlet

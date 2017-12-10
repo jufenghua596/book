@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1315999204 source:c:\documents and settings\administrator\my documents\codeblocks\wordfrequency\main.cpp
+	<jni.h>
+
+1314177042 c:\program files\java\jdk1.7.0\include\jni.h
+	<stdio.h>
+	<stdarg.h>
+	"jni_md.h"
+
+1314177042 c:\program files\java\jdk1.7.0\include\win32\jni_md.h
+

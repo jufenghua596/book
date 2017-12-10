@@ -1,0 +1,3 @@
+grant principal com.java7book.securewebapp.RolePrincipal "manager" {
+    permission com.java7book.securewebapp.BasePermission "employee.info", "read";  
+};

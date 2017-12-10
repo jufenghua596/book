@@ -1,0 +1,16 @@
+package $packageName;
+
+import java.util.ResourceBundle;
+
+public class $bundleName {
+    private static ResourceBundle bundle;
+    
+    static {
+        bundle = ResourceBundle.getBundle("${packageName}.${bundleName}");
+    }
+    
+    public static String getMessage(String key, Object... args) {
+        String message = bundle.getString(key);
+        return String.format(message, args);
+    }
+}

@@ -1,0 +1,3 @@
+#foreach ($mapEntry in $properties.entrySet())
+$mapEntry.key = $mapEntry.value
+#end

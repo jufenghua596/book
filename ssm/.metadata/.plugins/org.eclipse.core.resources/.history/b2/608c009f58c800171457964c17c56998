@@ -1,0 +1,32 @@
+package com.lm.knight.dto;
+
+
+/*
+ * 
+ * 使用form标签绑定表单对象，所以不用在写一个form对象了
+ */
+
+//public class ProductForm {
+//    private String name;
+//    private String description;
+//    private String price;
+//
+//    public String getName() {
+//        return name;
+//    }
+//    public void setName(String name) {
+//        this.name = name;
+//    }
+//    public String getDescription() {
+//        return description;
+//    }
+//    public void setDescription(String description) {
+//        this.description = description;
+//    }
+//    public String getPrice() {
+//        return price;
+//    }
+//    public void setPrice(String price) {
+//        this.price = price;
+//    }
+//}

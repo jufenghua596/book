@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1316018630 source:c:\documents and settings\administrator\my documents\codeblocks\methodtracing\main.cpp
+	<jni.h>
+	<jvmti.h>
+	<iostream>
+	<fstream>
+
+1314177042 c:\program files\java\jdk1.7.0\include\jni.h
+	<stdio.h>
+	<stdarg.h>
+	"jni_md.h"
+
+1314177042 c:\program files\java\jdk1.7.0\include\win32\jni_md.h
+
+1314177042 c:\program files\java\jdk1.7.0\include\jvmti.h
+	"jni.h"
+

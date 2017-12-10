@@ -1,0 +1,1 @@
+需要下载asm-all-4.0_RC1.jar、org.eclipse.jdt.core_3.8.0.v_C10.jar和velocity-dep-1.5.jar。
